@@ -5,7 +5,7 @@ A wrapper for Actionscript 3.0's NetGroup and RTMFP Multicasting abilities to cr
 
 The example project included shows you how to connect over a local network or Cirrus as well as how to post and receive messages. Library works best for applications meant to have less than 13 simultaneous realtime connections.
 
-To see it in action, download the swf and run it multiple times at once, or upload it and run it on multiple devices on the same local network. Magical Realtime Goodness!
+To see it in action, download the swf and run it multiple times at once or on multiple computers/devices on the same network. Magical Realtime Goodness!
 
 ==========
 Note that while using the local p2p connection it is common for this library to fail behind multiple firewalls, which if you're like me, you work at a place where the WIFI connection is behind its own firewall as well as the main metwork's firewall. Seems to be a fairly common set-up to run into.
